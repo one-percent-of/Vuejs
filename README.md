@@ -53,7 +53,7 @@
 
 # Vue 객체의 라이프 사이클
 -	각 상황에 필요한 처리가 있으면 Vue 라이프사이클에 관련된 함수로 처리할 수 있다.
-
+![Vue LifeCycle](/image/lifecycle.png)
  
 el 속성을 이용해서 어떠한 tag를 관리할 지를 지정해줄 수 있다.
 Var vm1 = new Vue({
@@ -67,3 +67,4 @@ Vue 객체에 마운트 된 태그를 관리하는 요소를 소멸시킨다. De
 # Template
 -	v-html: 지정된 데이터를 html 코드로 인식하여 바인딩한다.
 -	v-bind:속성명: 지정된 데이터를 지정된 속성 값으로 설정한다.
+-	v-html, v-bind 속성을 사용하여 HTML 코드를 재사용할 수 있다.
