@@ -1,5 +1,5 @@
-# Vuejs
-*****
+# Vuejs 정리
+
 # Vuejs란?
 -	대화형 웹 인터페이스를 개발하는데 사용하는 JavaScript 프레임워크
 -	MVVM(Model – View – ViewModel) 패턴을 기반으로 디자인 되어 있다.
